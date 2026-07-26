@@ -1,0 +1,4 @@
+Enter the number of element: 
+Enter the elements 
+sorted elements
+10 12 22 25 64 
